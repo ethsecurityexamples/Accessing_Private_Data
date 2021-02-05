@@ -22,4 +22,12 @@ And deploy there a contract with a *private* variable.
 For a nice guide to how connect to Ropsten, take a look to this link:
 [5 minute guide to deploying smart contracts with Truffle and Ropsten](https://medium.com/coinmonks/5-minute-guide-to-deploying-smart-contracts-with-truffle-and-ropsten-b3e30d5ee1e "5 minute guide to deploying smart contracts with Truffle and Ropsten")
 
+In our case we are gonna use a contract with the license:
+> SPDX-License-Identifier: MITIn our case, we are gonna use a SPDX-License-Identifier: MIT
+
+Take a look to it: 
+    AccessingPrivateData.sol
+
+
+
 
