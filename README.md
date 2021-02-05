@@ -40,19 +40,19 @@ First of all let's use Truffle to get access to Ropsten testnet:
 
 [![](https://github.com/ethsecurityexamples/Accessing_Private_Data/blob/main/1.jpg)](https://github.com/ethsecurityexamples/Accessing_Private_Data/blob/main/1.jpg)
 
-Now, check the contract in the .sol file, and see the address where the contract is deployed and stored. This address is:
+Now, check the contract in the .sol file, and see the address where the contract is deployed and stored at. This address is:
 
 
 
     0x3505a02BCDFbb225988161a95528bfDb279faD6b
 
-and save that address in a varible inside the truffle console:
+and save that address in a variable inside the truffle console:
 
 [![](https://github.com/ethsecurityexamples/Accessing_Private_Data/blob/main/3.jpg)](https://github.com/ethsecurityexamples/Accessing_Private_Data/blob/main/3.jpg)
 
 Now let's recover the information inside the slot number 2, where the password variable is stored:
 
-to do that we can use the Web3 API funtion: 
+to do that we can use the Web3 API function: 
 
     getStorageAt
 
@@ -86,4 +86,3 @@ Now password is 100% readable and is:
 
 So, for security reasons: NEVER store private information in the Blockchain.
 It is fully readable.
-
