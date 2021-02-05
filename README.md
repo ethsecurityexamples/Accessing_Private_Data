@@ -1,0 +1,1 @@
+[![](https://github.com/ethsecurityexamples/Accessing_Private_Data/blob/main/Ethereum-Private-Data.jpg)](https://github.com/ethsecurityexamples/Accessing_Private_Data/blob/main/Ethereum-Private-Data.jpg)
