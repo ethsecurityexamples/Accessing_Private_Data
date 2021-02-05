@@ -29,5 +29,8 @@ Take a look to it:
     AccessingPrivateData.sol
 
 
+First of all let's use Truffle to get access to Ropsten testnet:
+
+[![](https://github.com/ethsecurityexamples/Accessing_Private_Data/blob/main/1.jpg)](https://github.com/ethsecurityexamples/Accessing_Private_Data/blob/main/1.jpg)
 
 
