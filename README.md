@@ -61,4 +61,8 @@ you can fetch its documentation here:
 
 [![](https://github.com/ethsecurityexamples/Accessing_Private_Data/blob/main/4.jpg)](https://github.com/ethsecurityexamples/Accessing_Private_Data/blob/main/4.jpg)
 
+As we can see, the password variable is readable and open to anyone who wanna take a look!
+
+now, using another function from Web3 API, we can translate those hexadecimal digits to an ascii text human readable:
+
 
