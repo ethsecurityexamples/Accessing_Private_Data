@@ -29,8 +29,18 @@ Take a look to it:
     AccessingPrivateData.sol
 
 
+------------
+
+
+
 First of all let's use Truffle to get access to Ropsten testnet:
 
 [![](https://github.com/ethsecurityexamples/Accessing_Private_Data/blob/main/1.jpg)](https://github.com/ethsecurityexamples/Accessing_Private_Data/blob/main/1.jpg)
 
+Now, check the contract in the .sol file, and see the address where the contract is deployed and stored. This address is:
+    0x3505a02BCDFbb225988161a95528bfDb279faD6b
+
+and save that address in a varible inside the truffle console:
+
+[![](https://github.com/ethsecurityexamples/Accessing_Private_Data/blob/main/2.jpg)](https://github.com/ethsecurityexamples/Accessing_Private_Data/blob/main/2.jpg)
 
