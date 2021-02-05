@@ -42,5 +42,5 @@ Now, check the contract in the .sol file, and see the address where the contract
 
 and save that address in a varible inside the truffle console:
 
-[![](https://github.com/ethsecurityexamples/Accessing_Private_Data/blob/main/2.jpg)](https://github.com/ethsecurityexamples/Accessing_Private_Data/blob/main/2.jpg)
+[![](https://github.com/ethsecurityexamples/Accessing_Private_Data/blob/main/3.jpg)](https://github.com/ethsecurityexamples/Accessing_Private_Data/blob/main/3.jpg)
 
