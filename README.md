@@ -44,3 +44,7 @@ and save that address in a varible inside the truffle console:
 
 [![](https://github.com/ethsecurityexamples/Accessing_Private_Data/blob/main/3.jpg)](https://github.com/ethsecurityexamples/Accessing_Private_Data/blob/main/3.jpg)
 
+Now let's recover the information inside the slot number 2, where the password variable is stored:
+
+[![](https://github.com/ethsecurityexamples/Accessing_Private_Data/blob/main/4.jpg)](https://github.com/ethsecurityexamples/Accessing_Private_Data/blob/main/4.jpg)
+
