@@ -66,3 +66,24 @@ As we can see, the password variable is readable and open to anyone who wanna ta
 now, using another function from Web3 API, we can translate those hexadecimal digits to an ascii text human readable:
 
 
+
+    hexToAscii
+
+you can fetch its documentation here:
+[Web3 API](https://web3js.readthedocs.io/en/v1.2.1/web3-utils.html#hextoascii "Web3 API")
+
+
+[![](https://github.com/ethsecurityexamples/Accessing_Private_Data/blob/main/5.jpg)](https://github.com/ethsecurityexamples/Accessing_Private_Data/blob/main/5.jpg)
+
+Now password is 100% readable and is:
+
+
+    AAABBBCCC
+
+
+
+------------
+
+So, for security reasons: NEVER store private information in the Blockchain.
+It is fully readable.
+
